@@ -1,4 +1,4 @@
-package com.anthonycaron.joke.jokeapp.services;
+package com.anthonycaron.joke.services;
 
 public interface JokeService {
 

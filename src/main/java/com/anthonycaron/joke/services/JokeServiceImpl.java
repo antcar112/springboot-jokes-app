@@ -1,4 +1,4 @@
-package com.anthonycaron.joke.jokeapp.services;
+package com.anthonycaron.joke.services;
 
 import guru.springframework.norris.chuck.ChuckNorrisQuotes;
 import org.springframework.stereotype.Service;
